@@ -39,75 +39,81 @@ I'm a **B.Tech CSE (AI-ML)** student at Adani University (9.20 CGPA), simultaneo
 ---
 
 ## 🚀 Featured Projects
-
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🤖 [AION Code Reviewer](https://github.com/Wall-E-30/code-reviewer)
+<td width="33%" valign="top">
 
-RL-trained LLM environment for autonomous code review
+<h3>🏥 <a href="https://github.com/sharancreates/hospital-management-system">Arogya HMS</a></h3>
 
-`Python` `PyTorch` `Gymnasium` `GPT-2` `AST` `GitHub Actions`
+<p><strong>Distributed hospital management with EHR interoperability</strong></p>
 
-- **0.98+** reward via SFT + REINFORCE (variance-reducing baseline)
-- **13** programming languages · **15+** unsafe patterns blocked
-- AST-based grading + automated regression backtracking
-- **18** integration tests, CI on every commit
+<p>
+<code>Flask</code>
+<code>React</code>
+<code>Celery</code>
+<code>Redis</code>
+<code>PostgreSQL</code>
+<code>Docker</code>
+</p>
 
-📝 [Engineering blog →](https://medium.com/@sharanyanagar/we-built-aion-an-ai-that-teaches-itself-to-fix-your-code-using-reinforcement-learning-57ae8564518f)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 [Arogya HMS](https://github.com/sharancreates/hospital-management-system)
-
-Distributed hospital management with EHR interoperability
-
-`Flask` `React` `Celery` `Redis` `PostgreSQL` `Docker`
-
-- Async distributed job processing via Celery + Redis
-- **HL7 v2 ADT** + **FHIR R4** clinical data exports
-- **4 role types** secured with CSRF, rate limiting, RBAC
-- CI/CD pipeline, end-to-end security at middleware layer
-
-📝 [Engineering blog →](https://medium.com/@sharanyanagar/engineering-arogya-lessons-from-building-a-secure-healthcare-platform-ced0cf4ccca2)
+<ul>
+<li>Async distributed job processing via Celery + Redis</li>
+<li>HL7 v2 ADT + FHIR R4 clinical data exports</li>
+<li>4 role types secured with CSRF, rate limiting, RBAC</li>
+<li>CI/CD pipeline with middleware security</li>
+</ul>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🎯 [ResuMatch AI](https://github.com/sharancreates/resumatch)
+<td width="33%" valign="top">
 
-Hybrid NLP engine for ATS resume-JD matching
+<h3>🎯 <a href="https://github.com/sharancreates/resumatch">ResuMatch AI</a></h3>
 
-`Python` `FastAPI` `spaCy` `sentence-transformers` `PostgreSQL`
+<p><strong>Hybrid NLP engine for ATS resume–JD matching</strong></p>
 
-- **35%** relevance improvement over keyword-only matching
-- **60%** latency reduction (~250ms) via thread-safe LRU cache
-- **95%+** entity extraction accuracy with custom PhraseMatcher
-- **100+** technical skill patterns · lexical + semantic blending
+<p>
+<code>Python</code>
+<code>FastAPI</code>
+<code>spaCy</code>
+<code>sentence-transformers</code>
+<code>PostgreSQL</code>
+</p>
 
-</td>
-<td width="50%" valign="top">
-
-### 🌙 [Selene](https://github.com/sharancreates/selene)
-
-Adaptive cycle prediction with clinical AI and zero-knowledge privacy
-
-`Python` `scikit-learn` `Flask` `Redis` `PostgreSQL`
-
-- **±2.6** day RMSE with R² = 0.66 — Random Forest trained on **12,000** clinical samples
-- 100% records encrypted pre-serialization **(100k PBKDF2 iterations)**
-- Isolation Forest anomaly detection for symptom spikes; rule-based insights for PMOS, PMDD, Endometriosis
-- PostgreSQL connection pooling (10 + 20 overflow) with indexed query paths (user_id, log_date)
+<ul>
+<li>35% relevance improvement over keyword matching</li>
+<li>60% latency reduction (~250 ms) via LRU caching</li>
+<li>95%+ entity extraction accuracy using PhraseMatcher</li>
+<li>100+ technical skill patterns (lexical + semantic)</li>
+</ul>
 
 </td>
+
+<td width="33%" valign="top">
+
+<h3>🌙 <a href="https://github.com/sharancreates/selene">Selene</a></h3>
+
+<p><strong>Adaptive cycle prediction with clinical AI + privacy-first design</strong></p>
+
+<p>
+<code>Python</code>
+<code>scikit-learn</code>
+<code>Flask</code>
+<code>Redis</code>
+<code>PostgreSQL</code>
+</p>
+
+<ul>
+<li>±2.6-day RMSE (R² = 0.66) on 12,000 clinical samples</li>
+<li>100% encrypted records (100k PBKDF2 iterations)</li>
+<li>Isolation Forest anomaly detection for symptom spikes</li>
+<li>Optimized PostgreSQL pooling + indexed queries</li>
+</ul>
+
+</td>
+
 </tr>
 </table>
-
----
 
 ## 🏆 Hackathons
 
