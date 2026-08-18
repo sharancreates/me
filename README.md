@@ -182,25 +182,6 @@ I write about the engineering decisions behind what I build — not just the hap
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=sharancreates&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Sharanya's GitHub Stats"/>
-  <img height="175" src="https://streak-stats.demolab.com/?user=sharancreates&theme=tokyonight&hide_border=true" alt="Sharanya's Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharancreates&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharancreates&theme=tokyo-night&hide_border=true&area=true&area_color=7C3AED" width="100%" alt="Contribution Graph"/>
-</div>
-
----
-
 <div align="center">
   <i>"The best systems are honest — about their failure modes, their assumptions, and their limits."</i>
   <br><br>
